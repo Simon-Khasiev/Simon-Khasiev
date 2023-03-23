@@ -1,8 +1,10 @@
 <div align='center'>
   
-__Привет, я Frontend-разработчик. Работаю в крупной строительной компании.__
+---
+  
+__ПРИВЕТ, Я FRONTEND-РАЗРАБОТЧИК. РАБОТАЮ В КРУПНОЙ СТРОИТЕЛЬНОЙ КОМПАНИИ.__
  
-  __Занимаюсь разработкой интерфейсов специализированного ПО.__
+  __ЗАНИМАЮСЬ РАЗРАБОТКОЙ ИНТЕРФЕЙСОВ СПЕЦИАЛИЗИРОВАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ.__
 
 ---
 
@@ -16,3 +18,5 @@ __Технологии с которыми работаю:__
 <br/>
   
 <img src = 'sequelize.svg' alt='sequelize' width='100'> <img src = 'konva.svg' alt='konva' width='100'><img src = 'github.svg' alt='github' width='100'>  <img src = 'npm.svg' alt='npm' width='100'> <img src = 'postgresql.svg' alt='postgres' width='100'>  <img src = 'svg.svg' alt='svg' width='100'> <img src = 'slack.svg' alt='slack' width='100'>
+
+---
