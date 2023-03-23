@@ -6,7 +6,7 @@ __Технологии с которыми работаю:__
 
 <br>
 
-<img src = 'npm.svg' alt='npm' width='50'> <img src = 'sequelize.svg' alt='sequelize' width='50'> <img src = 'konva.svg' alt='konva' width='50'> <img src = 'visualstudiocode.svg' alt='vscode' width='50> <img src = 'postgresql.svg' alt='postgres' width='50'>   
+<img src = 'npm.svg' alt='npm' width='50'> <img src = 'sequelize.svg' alt='sequelize' width='50'> <img src = 'konva.svg' alt='konva' width='50'> <img src = 'visualstudiocode.svg' alt='vscode' width='50'> <img src = 'postgresql.svg' alt='postgres' width='50'>   
 
 <br>
 
