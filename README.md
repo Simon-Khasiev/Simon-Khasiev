@@ -1,16 +1,14 @@
-### Hi there 👋
+##### Меня зовут Симон! Я Frontend-developer уже более 2 лет.  Работаю в крупной строительной компании. Занимаюсь разработкой интерфейсов специализированного ПО.
+---
+__Технологии с которыми работаю:__ 
 
-<!--
-**Simon-Khasiev/Simon-Khasiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src ='javascript.svg' alt='javascript' width='80'/> <img src = 'react.svg' alt='react' width='80'> <img src = 'redux.svg' alt='redux' width='80'> <img src = 'nodedotjs.svg' alt='node.js' width='80'> <img src = 'typescript.svg' alt='typescript' width='80'>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = 'npm.svg' alt='npm' width='80'> <img src = 'sequelize.svg' alt='sequelize' width='80'> <img src = 'konva.svg' alt='konva' width='80'> <img src = 'visualstudiocode.svg' alt='vscode' width='80'> <img src = 'postgresql.svg' alt='postgres' width='80'>   
+
+<br>
+
+<img src = 'github.svg' alt='github' width='80'>
+<img src = 'jirasoftware.svg' alt='jira' width='80'> <img src = 'svg.svg' alt='svg' width='80'> <img src = 'discord.svg' alt='react' width='80'> <img src = 'slack.svg' alt='slack' width='80'>
