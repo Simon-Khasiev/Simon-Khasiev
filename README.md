@@ -10,5 +10,4 @@ __Технологии с которыми работаю:__
 
 <br>
 
-<img src = 'github.svg' alt='github' width='80'>
-<img src = 'jirasoftware.svg' alt='jira' width='80'> <img src = 'svg.svg' alt='svg' width='80'> <img src = 'discord.svg' alt='react' width='80'> <img src = 'slack.svg' alt='slack' width='80'>
+<img src = 'github.svg' alt='github' width='80'> <img src = 'jirasoftware.svg' alt='jira' width='80'> <img src = 'svg.svg' alt='svg' width='80'> <img src = 'discord.svg' alt='react' width='80'> <img src = 'slack.svg' alt='slack' width='80'>
