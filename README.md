@@ -8,8 +8,8 @@ __Технологии с которыми работаю:__
         text-align: center
     }
 </style>
-<div>
 
+<div>
 <img src ='javascript.svg' alt='javascript' width='50'/> <img src = 'react.svg' alt='react' width='50'> <img src = 'redux.svg' alt='redux' width='50'> <img src = 'nodedotjs.svg' alt='node.js' width='50'> <img src = 'typescript.svg' alt='typescript' width='50'>
 
 <br>
