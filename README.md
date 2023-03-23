@@ -1,6 +1,14 @@
-__Меня зовут Симон! Я Frontend-developer.  Работаю в крупной строительной компании. Занимаюсь разработкой интерфейсов специализированного ПО.__
+_Меня зовут Симон! Я Frontend-developer.  Работаю в крупной строительной компании. Занимаюсь разработкой интерфейсов специализированного ПО._
 ---
 __Технологии с которыми работаю:__ 
+
+<style type="text/css">
+    div {
+        width: 100%;
+        text-align: center
+    }
+</style>
+<div>
 
 <img src ='javascript.svg' alt='javascript' width='50'/> <img src = 'react.svg' alt='react' width='50'> <img src = 'redux.svg' alt='redux' width='50'> <img src = 'nodedotjs.svg' alt='node.js' width='50'> <img src = 'typescript.svg' alt='typescript' width='50'>
 
@@ -11,3 +19,4 @@ __Технологии с которыми работаю:__
 <br>
 
 <img src = 'github.svg' alt='github' width='50'> <img src = 'jirasoftware.svg' alt='jira' width='50'> <img src = 'svg.svg' alt='svg' width='50'> <img src = 'discord.svg' alt='react' width='50'> <img src = 'slack.svg' alt='slack' width='50'>
+</div>
