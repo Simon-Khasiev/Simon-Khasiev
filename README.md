@@ -1,22 +1,41 @@
-<div align='center'>
-  
----
-  
-__ПРИВЕТ, Я FULLSTACK-РАЗРАБОТЧИК.__
- 
-__ЗАНИМАЮСЬ РАЗРАБОТКОЙ СПЕЦИАЛИЗИРОВАННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ.__
+# Я fullstack developer
+
+Cпециализируюсь на создании масштабируемых Web-приложений с акцентом на **End-to-End Type Safety**. Мой девиз: "Если код компилируется без ошибок TypeScript, значит, он уже наполовину готов к продакшену".
 
 ---
 
-  
-__Технологии с которыми работаю:__ 
-  
-<br/>
-  
-<img src ='javascript.svg' alt='javascript' width='60'/>   <img src = 'react.svg' alt='react' width='60'> <img src = 'redux.svg' alt='redux' width='60'> <img src = 'nodedotjs.svg' alt='node.js' width='60'> <img src = 'visualstudiocode.svg' alt='vscode' width='60'> <img src = 'jirasoftware.svg' alt='jira' width='60'> <img src = 'typescript.svg' alt='typescript' width='60'>
-  
-<br/>
-  
-<img src = 'sequelize.svg' alt='sequelize' width='60'> <img src = 'konva.svg' alt='konva' width='60'> <img src = 'github.svg' alt='github' width='60'>  <img src = 'npm.svg' alt='npm' width='60'> <img src = 'postgresql.svg' alt='postgres' width='60'>  <img src = 'svg.svg' alt='svg' width='60'> <img src = 'slack.svg' alt='slack' width='60'>
+### 🛠 Стек технологий
+
+#### 🏗 Frontend & State Management
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+* **Core:** React 18+ & Next.js.
+* **State:** Redux Toolkit для сложных стейтов и глобальной логики.
+* **Styling:** Мастерски владею версткой от чистого CSS/SCSS до UI-фреймворков.
+
+#### 🖥 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+</p>
+
+* **API:** Проектирование безопасных API через **tRPC** и **Zod** для мгновенной валидации данных.
+* **ORM:** Глубокая экспертиза в **Prisma** (миграции, оптимизация запросов).
+* **DB:** Проектирование реляционных схем в **PostgreSQL**.
+
+#### 🎨 UI Library Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
