@@ -8,10 +8,11 @@ Cпециализируюсь на создании масштабируемых
 
 #### 🏗 Frontend & State Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
 </p>
@@ -25,6 +26,7 @@ Cпециализируюсь на создании масштабируемых
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 * **API:** Проектирование безопасных API через **tRPC** и **Zod** для мгновенной валидации данных.
