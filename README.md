@@ -1,6 +1,8 @@
-# Я fullstack developer
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" /> </p>
 
-Cпециализируюсь на создании масштабируемых Web-приложений с акцентом на **End-to-End Type Safety**. Мой девиз: "Если код компилируется без ошибок TypeScript, значит, он уже наполовину готов к продакшену".
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Architecture;Expert+in+TypeScript+and+Node.js;Crafting+Type-Safe+Fullstack+Apps;Coffee+to+Code+Converter" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -8,18 +10,10 @@ Cпециализируюсь на создании масштабируемых
 
 #### 🏗 Frontend & State Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,html,css" />
+  </a>
 </p>
-
-* **Core:** React 18+ & Next.js.
-* **State:** Redux Toolkit для сложных стейтов и глобальной логики.
-* **Styling:** Мастерски владею версткой от чистого CSS/SCSS до UI-фреймворков.
 
 #### 🖥 Backend & Database
 <p align="left">
@@ -40,4 +34,27 @@ Cпециализируюсь на создании масштабируемых
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+---
+
+### 🛠 Мой "Senior-ский" процесс
+
+> [!TIP]
+> **Архитектурный подход:** Я не просто пишу код, я создаю экосистемы. Использование `tRPC` + `Zod` позволяет мне ловить ошибки на этапе разработки, экономя часы дебаггинга в продакшене.
+
+| Процесс | Инструментарий |
+| :--- | :--- |
+| **Frontend** | Next.js (Server Components), Redux Toolkit, SCSS/MUI |
+| **Backend** | Node.js, tRPC, REST API |
+| **Data Layer** | PostgreSQL + Prisma (Strict Typing) |
+| **DevOps** | Docker, CI/CD, npm/yarn workspaces |
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
+</p>
 ---
