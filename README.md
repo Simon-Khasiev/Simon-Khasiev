@@ -1,7 +1,7 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=336947&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Architecture;Expert+in+TypeScript+and+Node.js;Crafting+Type-Safe+Fullstack+Apps;Coffee+to+Code+Converter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=336947&center=true&vCenter=true&width=600&lines=Building+Scalable+Architecture;Expert+in+TypeScript+and+Node.js;Crafting+Type-Safe+Fullstack+Apps;Coffee+to+Code+Converter" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=336947&height=100&section=footer" />
 </p>
