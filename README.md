@@ -23,10 +23,6 @@
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
-* **API:** Проектирование безопасных API через **tRPC** и **Zod** для мгновенной валидации данных.
-* **ORM:** Глубокая экспертиза в **Prisma** (миграции, оптимизация запросов).
-* **DB:** Проектирование реляционных схем в **PostgreSQL**.
-
 #### 🎨 UI Library Expertise
 <p align="left">
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
@@ -43,9 +39,9 @@
 
 | Процесс | Инструментарий |
 | :--- | :--- |
-| **Frontend** | Next.js (Server Components), Redux Toolkit, SCSS/MUI |
+| **Frontend** | Next.js, Redux Toolkit, SCSS/MUI |
 | **Backend** | Node.js, tRPC, REST API |
-| **Data Layer** | PostgreSQL + Prisma (Strict Typing) |
+| **Data Base** | PostgreSQL + Prisma (Strict Typing) |
 | **DevOps** | Docker, CI/CD, npm/yarn workspaces |
 
 ---
@@ -57,4 +53,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
 </p>
----
